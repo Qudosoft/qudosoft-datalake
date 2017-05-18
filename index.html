@@ -4,7 +4,11 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+<<<<<<< Updated upstream
 		<title>Datalake</title>
+=======
+		<title>Event-driven Datalake</title>
+>>>>>>> Stashed changes
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/blood.css">
@@ -34,8 +38,96 @@
 
                         <img src="img/structure.svg", height="700", style="background:none; border:none; box-shadow:none;">
 
+                        <table align="center" class="reveal">
+                            <tr>
+                                <td>
+                                    <img src="img/qudosoft_logo.png", height="300", style="background:none; border:none; box-shadow:none;">
+                                    <br> Berlin + Karlsruhe
+                                    <br> Software development
+                                </td>
+                                <td>
+                                    <img src="img/dataqube_logo.png", height="300", style="background:none; border:none; box-shadow:none;">
+                                    <br> Karlsruhe
+                                    <br> Data Science
+                                </td>
 
+                            </tr>
+                        </table>
 
+                        <br> </br>
+                        **Team: Pandas**
+                        
+                        ---
+                        
+                        ### What is a Data Scientist without Data?
+                        
+                        Unemployed.<!-- .element: class="fragment" -->
+                        
+                        ---
+                        
+                        
+                        ### Our data situation when starting the Big Data Lab: 
+                        * Small Hadoop Cluster
+                        * Weekly Mainframe Exports
+                        * No Online Data
+                        * First "Live" Data From Call Center 
+                        
+                        => Tedious data imports, only offline batch use cases <!-- .element: class="fragment" -->
+                        => Most useful and reliable source was the live data <!-- .element: class="fragment" -->
+                        
+                        ---
+                        
+                        ### Rebuilding the Data Infrastructure
+                        * Integration of legacy data from various sources <!-- .element: class="fragment" -->
+                        * Making those source available as streams <!-- .element: class="fragment" -->
+                        * Feeding data back to legacy systems and databases <!-- .element: class="fragment" -->
+>>>>>>> Stashed changes
+
+                        ---
+                        
+                        ### Datalake Architecture
+                        
+                        ---
+                        
+                        ### The only precondition
+                        
+                        Every source system has to write *events* to the datalake.
+                        
+                        ---
+                                                
+                        ### Make publishing events easy
+                        
+                        Ingestion layer with
+                        * Register schemas from example events
+                        * Java/REST clients with zero configuration
+                        ``` 
+                        Client client = new Client(DatalakeStage.PROD);
+                        client.send(event);
+                        ```
+                        ``` 
+                        POST /watergate/datalakeevents/prod
+                        {
+                           "source" : "qudosoft_customerCare",    
+                           "type" : "orderSent",
+                           "payload" : "..."
+                        }
+                        ```
+                        
+                        ---
+                        
+                        ### Making everybody happy
+                        
+                        * Streams for online learning models and business services
+                          * Core services can use realtime business information
+                          * Devs can add new features faster
+                          * Data Scientists get all data delivered to their workbench
+                        * Persistence for BI, reporting and batch analysis
+                          * Reporting as usual
+                          * No per-source ETL, full automation of data import
+                        
+                        ---
+                        
+                        
                     </script>
                 </section>
 

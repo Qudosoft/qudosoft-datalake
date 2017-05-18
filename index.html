@@ -4,11 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<<<<<<< Updated upstream
-		<title>Datalake</title>
-=======
 		<title>Event-driven Datalake</title>
->>>>>>> Stashed changes
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/blood.css">
@@ -73,7 +69,7 @@
                         * First "Live" Data From Call Center 
                         
                         => Tedious data imports, only offline batch use cases <!-- .element: class="fragment" -->
-                        => Most useful and reliable source was the live data <!-- .element: class="fragment" -->
+                        => Most useful and reliable source was live data <!-- .element: class="fragment" -->
                         
                         ---
                         
@@ -81,7 +77,6 @@
                         * Integration of legacy data from various sources <!-- .element: class="fragment" -->
                         * Making those source available as streams <!-- .element: class="fragment" -->
                         * Feeding data back to legacy systems and databases <!-- .element: class="fragment" -->
->>>>>>> Stashed changes
 
                         ---
                         
@@ -154,7 +149,9 @@
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'plugin/math/math.js', async: true }
+					{ src: 'plugin/math/math.js', async: true },
+					// Zoom in and out with Alt+click
+             		{ src: 'plugin/zoom-js/zoom.js', async: true }
 				]
 			});
 		</script>

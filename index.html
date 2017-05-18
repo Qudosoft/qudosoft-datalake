@@ -28,11 +28,9 @@
                 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
                     <script type="text/template">
                         ### Datalake
-                        ** <font color="yellow">Mission: seamless transition to state of the art event streams </font> **
+                        ** <font color="yellow">MISSION: seamless transition to state of the art event streams </font> **
 
                         ---
-
-                        <img src="img/structure.svg", height="700", style="background:none; border:none; box-shadow:none;">
 
                         <table align="center" class="reveal">
                             <tr>
@@ -51,8 +49,9 @@
                         </table>
 
                         <br> </br>
-                        **Team: Pandas**
-                        
+
+                        **Team: Datalaken**
+
                         ---
                         
                         ### What is a Data Scientist without Data?
@@ -62,14 +61,14 @@
                         ---
                         
                         
-                        ### Our data situation when starting the Big Data Lab: 
+                        ### When we started a Big Data Lab:
                         * Small Hadoop Cluster
                         * Weekly Mainframe Exports
                         * No Online Data
                         * First "Live" Data From Call Center 
                         
-                        => Tedious data imports, only offline batch use cases <!-- .element: class="fragment" -->
-                        => Most useful and reliable source was live data <!-- .element: class="fragment" -->
+                        $\Rightarrow$ Tedious data imports, only offline batch use cases <!-- .element: class="fragment" -->
+                        $\Rightarrow$  Most useful and reliable source was live data <!-- .element: class="fragment" -->
                         
                         ---
                         
@@ -79,22 +78,26 @@
                         * Feeding data back to legacy systems and databases <!-- .element: class="fragment" -->
 
                         ---
-                        
-                        ### Datalake Architecture
-                        
+
+                        ### Our Solution
+                        #### Every system publishes <font color="yellow">events</font>
+
                         ---
+
+                        <img src="img/structure.svg", height="600", style="background:none; border:none; box-shadow:none;">
+
+                        --
+
+                        <img src="img/structure_with_logos.svg", height="600", style="background:none; border:none; box-shadow:none;">
                         
-                        ### The only precondition
-                        
-                        Every source system has to write *events* to the datalake.
+
                         
                         ---
                                                 
-                        ### Make publishing events easy
-                        
-                        Ingestion layer with
-                        * Register schemas from example events
-                        * Java/REST clients with zero configuration
+                        ###  Make publishing events easy
+
+                        * **<font color="yellow">Avrodite:</font>** Register schemas from example events
+                        * **<font color="yellow">Watergate:</font>** Java/REST clients with zero configuration
                         ``` 
                         Client client = new Client(DatalakeStage.PROD);
                         client.send(event);

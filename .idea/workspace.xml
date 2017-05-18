@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e39228-3266-4018-8e67-ec1a9659c752" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/print/paper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/print/pdf.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/reveal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/reveal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/beige.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/black.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/blood.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/league.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/moon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/night.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/serif.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/simple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/sky.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/solarized.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/beige.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/black.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/blood.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/league.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/moon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/night.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/serif.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/simple.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/sky.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/solarized.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/source/white.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/template/mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/template/settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/template/theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/css/theme/white.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/function_tree.aux" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/function_tree.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/function_tree.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/function_tree.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/function_tree.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/generate_svg.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/innovators_dilemma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/img/jupyter_notebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/js/reveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/css/zenburn.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/league-gothic/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/league-gothic/league-gothic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/league-gothic/league-gothic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/league-gothic/league-gothic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/league-gothic/league-gothic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/font/source-sans-pro/source-sans-pro.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/js/classList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/js/head.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/lib/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/highlight/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/markdown/example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/markdown/example.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/markdown/markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/markdown/marked.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/math/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/multiplex/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/multiplex/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/multiplex/master.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/multiplex/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/notes-server/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/notes-server/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/notes-server/notes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/notes/notes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/notes/notes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/print-pdf/print-pdf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/search/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/plugin/zoom-js/zoom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/examples/assets/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/examples/assets/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/examples/barebones.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/examples/embedded-media.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/examples/math.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/examples/slide-backgrounds.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/examples/slide-transitions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/qunit-1.12.0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/qunit-1.12.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/simple.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-element-attributes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-element-attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-external.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-external.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-options.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-slide-attributes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown-slide-attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-pdf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test-pdf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reveal_js/reveal.js/test/test.js" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reveal_js/reveal.js" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="24" />
+    <option name="width" value="1867" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datalake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datalake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datalake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datalake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/learning/coursera/functional_programming_in_scala_specialization/course_4_big_data_analysis_with_scala_and_spark/week_1/wikipedia" value="1490275542000" />
+        <entry key="$USER_HOME$/learning/coursera/functional_programming_in_scala_specialization/course_4_big_data_analysis_with_scala_and_spark/week_2/stackoverflow" value="1490276802000" />
+        <entry key="$USER_HOME$/learning/data_lake_workshop/datalake-examples" value="1490776285924" />
+        <entry key="$USER_HOME$/learning/spark/WordCount" value="1487158917624" />
+        <entry key="$USER_HOME$/work/Chang" value="1487171794615" />
+        <entry key="$USER_HOME$/work/CurveFit" value="1486717528722" />
+        <entry key="$USER_HOME$/work/tailor-model" value="1489484720203" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e39228-3266-4018-8e67-ec1a9659c752" name="Default" comment="" />
+      <created>1495095204961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495095204961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="24" width="1867" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

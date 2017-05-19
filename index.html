@@ -68,11 +68,12 @@
                         * First "Live" Data From Call Center 
                         
                         $\Rightarrow$ Tedious data imports, only offline batch use cases <!-- .element: class="fragment" -->
-                        $\Rightarrow$  Most useful and reliable source was live data <!-- .element: class="fragment" -->
+                        $\Rightarrow$ But most useful and reliable source is live data <!-- .element: class="fragment" -->
                         
                         ---
                         
                         ### Rebuilding the Data Infrastructure
+                        * Make streaming data available
                         * Integration of legacy data from various sources <!-- .element: class="fragment" -->
                         * Making those source available as streams <!-- .element: class="fragment" -->
                         * Feeding data back to legacy systems and databases <!-- .element: class="fragment" -->
@@ -94,8 +95,9 @@
                         
                         ---
                                                 
-                        ###  Make publishing events easy
+                        ###  Ingestion Layer
 
+                        * **Make publishing events easy**
                         * **<font color="yellow">Avrodite:</font>** Register schemas from example events
                         * **<font color="yellow">Watergate:</font>** Java/REST clients with zero configuration
                         ``` 
@@ -115,17 +117,23 @@
                         
                         ### Making everybody happy
                         
-                        * Streams for online learning models and business services
+                        * **<font color="yellow">Streams</font>**
+                          * Online learning models
+                          * Real time business services
                           * Core services can use realtime business information
                           * Devs can add new features faster
                           * Data Scientists get all data delivered to their workbench
-                        * Persistence for BI, reporting and batch analysis
+                        
+                        --
+
+                        ### Making everybody happy
+
+                        * **<font color="yellow">Persistence</font>**
+                          * BI, reporting and batch analysis
                           * Reporting as usual
                           * No per-source ETL, full automation of data import
-                        
-                        ---
-                        
-                        
+
+
                     </script>
                 </section>
 

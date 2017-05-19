@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.26)  18 MAY 2017 21:16
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.26)  19 MAY 2017 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -826,8 +826,6 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 6 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 6 in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -838,12 +836,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] (./structure.aux) ) 
 Here is how much of TeX's memory you used:
- 25345 strings out of 495145
- 537415 string characters out of 6176861
- 487476 words of memory out of 5000000
- 28355 multiletter control sequences out of 15000+600000
- 7275 words of font info for 41 fonts, out of 8000000 for 9000
+ 25394 strings out of 495145
+ 538518 string characters out of 6176861
+ 495017 words of memory out of 5000000
+ 28402 multiletter control sequences out of 15000+600000
+ 7291 words of font info for 43 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
- 62i,7n,68p,10372b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,68p,10372b,1167s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on structure.pdf (1 page).
